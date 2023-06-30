@@ -1,0 +1,106 @@
+<html>
+   <head>
+    <title>my first website</title>
+    <footer>made by camcam</footer>
+    <style>
+        
+        h1 {
+            text-align: center;
+            color: pink;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 80px;
+            text-shadow: 5px;
+        }
+        h4 {
+            text-align: center;
+            color: rgb(220, 148, 172);
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 30px;
+        }
+        p{ 
+            text-align: left;
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center; font-size: medium; color:lightpink;
+        }
+        #img1{
+            width: 300;
+            height: 300;
+            position: relative;
+            top: 200;
+            right: 450;
+        }
+        #img2{
+            width: 300;
+            height: 300;
+            position: relative;
+            top: 200;
+            right: 250;
+        }
+        #img3{
+            width: 300;
+            height: 300;
+            position: relative;
+            top: 200;
+            left: -20;
+        }
+
+        #img4{
+            width: 300;
+            height: 300;
+            position: relative;
+            top: 290;
+            left: 50;
+        }
+        #img5{
+            width: 300;
+            height: 300;
+            position: relative;
+            top: 290;
+            left: 250;
+        }
+        #img6{
+            width: 300;
+            height: 300;
+            position: relative;
+            top: 290;
+            left: 490;
+        }
+        body{
+            background-color: linen;
+        }
+        a button{
+            width: 500px;
+            height: 100px;
+            position: relative;
+            top: -200;
+            left: 470;
+            font-size: 30px;
+            color: hotpink;
+            background-color: white;
+        }
+        footer{
+            color: pink;
+        }
+
+    </style> 
+    
+      <body>
+        <h1>cute dogs🐕</h1>
+
+        <h4>pictures of cute dogs to make you smile 😁</h4>
+
+        <p>this webiste is for pictures of cute dogs 
+        i found online to make you smile on a bad day, enjoy</p>
+
+        <a href="https://stars.chromeexperiments.com"><button>press me for a surprise 🪐 </button></a>
+
+        <img id=img1 src="https://i.pinimg.com/564x/65/7c/f5/657cf5d5a23e39ee148bba8d8bfdcfe5.jpg" alt="">
+        <img id=img2 src="https://i.pinimg.com/736x/a8/de/5a/a8de5abeb496890e77e3f9897d68ea09.jpg" alt="">
+        <img id=img3 src="https://i.pinimg.com/736x/e7/db/2d/e7db2d38a7fec0a0f77feeef76eb9033.jpg" alt="">
+        <img id=img4 src="https://i.pinimg.com/564x/43/c5/3e/43c53e9a41cf94d017fb355860fa8080.jpg" alt="">
+        <img id=img5 src="https://i.pinimg.com/564x/33/e4/a8/33e4a8c95d6faffb75c5ccc7c6a57ea8.jpg" alt="">
+        <img id=img6 src="https://i.pinimg.com/564x/af/64/88/af64884f49d14a1c6e29cad17c8c6dbf.jpg" alt="">
+
+      </body>
+   </head>
+</html>
